@@ -1,0 +1,6 @@
+{
+    "require": {
+        "klein/klein": "^2.1",
+        "thingengineer/mysqli-database-class": "dev-master"
+    }
+}

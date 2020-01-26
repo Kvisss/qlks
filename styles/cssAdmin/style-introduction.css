@@ -1,0 +1,25 @@
+.body-middle-1-title {
+    margin-top: 20px;
+    border-top: 0;
+    border-bottom: 1px solid rgb(196, 182, 182);
+    border-left: 0;
+    border-right: 0;
+}
+
+.body-middle-2 {
+    margin-top: 10px;
+}
+
+.title-color {
+    color: #2e353d;
+}
+
+.card-help-1 {
+    margin-top: 5px;
+    border-radius: 0px;
+}
+
+.map-setting {
+    width: 100%;
+    height: 500px;
+}
